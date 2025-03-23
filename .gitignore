@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Community.API/bin/Debug/net8.0
+/.vs/CommunityService/FileContentIndex
+/.vs/CommunityService/DesignTimeBuild
+/.vs/CommunityService/v17
+/.vs
+/Community.API/obj
+/Community.Core/bin/Debug/net8.0
+/Community.Core/obj
+/Community.Infrastructure/obj
+/Community.Infrastructure/bin/Debug/net8.0
+/Community.Models/bin/Debug/net8.0
+/Community.Models/obj
